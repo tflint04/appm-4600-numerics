@@ -134,3 +134,6 @@ See the [Final Exam review](Notes/Review_Final.pdf) and [Final Exam review solut
 The most important topics are marked with an asterisk*
 
 ... TBD
+
+## Additional Exam Policy
+Students may send Prof. Becker a handwritten letter if they don't feel like taking any exam and earn full marks. We've all been there.
